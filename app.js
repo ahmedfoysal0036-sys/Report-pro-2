@@ -4,7 +4,7 @@
 /* ---------- Config ---------- */
 const DB_KEY='prof_stable_v30_ot_hm';
 const DRAFT_KEY='activity_draft_v1';
-const DEFAULTS={assigned:'Md Azmir Hossain',name:'S.M.Faisal Ahmed',hr:'0036',desig:'Sr Supervisor'};
+const DEFAULTS={assigned:'Md Azmir Hossain',name:'Mehedi Hasan Tuhin',hr:'0752',desig:'Supervisor'};
 const DUTY_MINUTES=540;
 const MAX_ROWS=20;
 const OFF_TYPES=['Off day','Goverment Holiday','Shifting','Sick Leave','Plan leave','Casual leave'];
